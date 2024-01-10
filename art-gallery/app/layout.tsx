@@ -18,7 +18,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="h-full">
+      <body className="h-full font-Oswald">
         <Header />
         <main className="overflow-hidden">
           <div className="">{children}</div>

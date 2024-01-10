@@ -141,3 +141,7 @@ table {
   background-color: black;
   color: white;
 }
+
+.experience {
+  @apply border-y border-solid border-y-white flex justify-between  px-3 lg:px-7 py-10 hover:bg-white hover:text-black  transition ease-out duration-500;
+}

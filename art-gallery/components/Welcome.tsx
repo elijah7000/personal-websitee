@@ -18,7 +18,7 @@ const Welcome = () => {
           <div className="backgroundP1"></div>
           <div className="backgroundP2"></div>
         </div>
-        <div className="w-full flex flex-col  absolute text-7xl mt-[250px] text-center uppercase  md:text-8xl lg:text-[130px] animate-reveal">
+        <div className="w-full flex flex-col absolute text-7xl mt-[250px] text-center uppercase  md:text-8xl lg:text-[130px] animate-reveal">
           <h1 className="md:mr-[250px] lg:mr-[300px] animate-reveal">
             Hello, I'm
           </h1>
@@ -28,7 +28,7 @@ const Welcome = () => {
           <h1 className="md:ml-[500px] lg:ml-[650px] animate-reveal">Kim</h1>
         </div>
       </div>
-      <div className="w-full flex flex-row items-end justify-between text-center py-3 px-5 bg-black z-10 animate-revealTopBot">
+      <div className="w-full flex items-end justify-between text-center py-3 px-5 bg-black z-10 animate-revealTopBot">
         <h3>Lydia J Kim</h3>
         <h3 className="max-sm:mb-44">
           Freelance Designer / Illustrator <br /> Based In LosAngeles

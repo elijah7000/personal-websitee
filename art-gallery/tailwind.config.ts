@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss";
-import { Noto_Sans } from "next/font/google";
+import { Noto_Sans, Oswald } from "next/font/google";
 
 const config: Config = {
   content: [
@@ -16,6 +16,7 @@ const config: Config = {
       fontFamily: {
         notoSans: ["Noto Sans", "sans-serif"],
         bebasNeue: ["Bebas Neue", "sans-serif"],
+        Oswald: ["Oswald", "sans-serif"],
       },
       keyframes: {
         reveal: {

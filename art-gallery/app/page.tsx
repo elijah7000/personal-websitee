@@ -11,8 +11,8 @@ export default function Home() {
     <div>
       <Welcome />
       <Gallery />
-      <Resume />
       <Instagram />
+      <Resume />
       <Contact />
     </div>
   );
